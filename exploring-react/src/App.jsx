@@ -1,7 +1,9 @@
+import Post from "./components/Post.jsx";
+
 export default function App() {
   return (
-    <h1 className="">
-      Hello world!
-    </h1>
+    <div className="">
+      <Post />
+    </div>
   )
 }
