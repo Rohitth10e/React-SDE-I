@@ -1,9 +1,9 @@
-import Post from "./components/Post.jsx";
+import PostList from "./components/PostList.jsx";
 
 export default function App() {
   return (
     <div className="">
-      <Post />
+      <PostList/>
     </div>
   )
 }
